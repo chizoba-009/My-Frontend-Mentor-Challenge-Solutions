@@ -18,6 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./images/Frontend%20Mentor%20_%20QR%20code%20component.png)
 
+-Preview: [Live site](https://xc-qr.netlify.app)
+
 ## My process
 
 ### Built with
